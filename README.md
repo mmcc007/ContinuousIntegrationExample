@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/mmcc007/ContinuousIntegrationExample.svg?branch=master&style=flat-square)](https://travis-ci.org/mmcc007/ContinuousIntegrationExample)
+[![Build Status](https://travis-ci.org/mmcc007/ContinuousIntegrationExample.svg?branch=develop&style=flat-square)](https://travis-ci.org/mmcc007/ContinuousIntegrationExample) 
 
 # ContinuousIntegrationExample
 
