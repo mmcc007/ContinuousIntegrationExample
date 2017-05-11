@@ -1,14 +1,16 @@
 pipeline {
-   agent { label 'master' }
+  agent {
+    label 'master'
+  }
   stages {
-    stage ('Initialize') {
+    stage('Initialize') {
       steps {
         echo 'Placeholder.'
       }
     }
     stage('build') {
       steps {
-        sh "echo build"
+        sh 'echo build'
       }
     }
   }
